@@ -1,0 +1,7 @@
+{
+  "name": "Today Exchange - صرافی امروز لندن",
+  "description": "A minimal and modern React application for Today Exchange, an Iranian currency exchange based in London, featuring real-time rates, university tuition payment services, and a sleek Persian interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
